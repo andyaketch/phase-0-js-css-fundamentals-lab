@@ -15,12 +15,12 @@
     padding: 0;
 }
 
-.navbar ul li {
+.navbar li {
     display: inline;
     margin: 0 1em;
 }
 
-.navbar ul li a {
+.navbar ul li a  {
     color: #fff;
 }
 
@@ -68,7 +68,7 @@ section {
     margin-bottom: 0.5em;
 }
 
-.portfolio-item p {
+.portfolio-item p   {
     margin-bottom: 0.5em;
     color: #666;
 }
@@ -85,7 +85,7 @@ section {
 
 
 
-#footer {
+#footer  {
     background-color: #222;
     color: #fff;
     padding: 2em;
